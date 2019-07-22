@@ -1,1 +1,1 @@
-curl -O https://github.com/subhranildey/torch/blob/master/usercreate.sh && sh usercreate.sh
+`curl -O https://raw.githubusercontent.com/subhranildey/torch/master/usercreate.sh && sh usercreate.sh`
